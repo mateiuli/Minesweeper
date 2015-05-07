@@ -1,0 +1,29 @@
+Completati, va rog, acest fisier intr-un editor Monospaced
+(de exemplu: vim, GEdit, nano, Kate, etc.)
+===============================================================================
+
+Nume si prenume:		Matesica Iulian Razvan
+Grupa:				311CC
+Tema:				Tema 3, Programarea Calculatoarelor
+Tema proiectului:		Minesweeper
+Versiunea de compilator:	4.8.1
+Dependente externe:		fara dependente externe
+
+===============================================================================
+A) Detalii de implementare, bonusuri implementate:
+		- toate taskurile + bonus
+		- setarile jocului sunt salvate intr-un fisier binar
+		- din setari se poate schimba dimensiunea celulei; se schimba
+		automat in functie de numarul de coloane si linii; 
+		- dimensiunea recomandata a terminalului: 132x43
+		- cateva sunete folosind functia beep() din ncurses
+
+===============================================================================
+B) Feedback organizatoric pentru propunator:
+
+Timp aproximativ de rezolvare:		50 (in ore)
+Gradul de dificultate (1 = simplu)	6 (max. 10)
+
+Sugestii, pareri, comentarii, propuneri:
+		- era mai frumos de implementat in C++ (OOP) :D eventual cu OpenGL
+
