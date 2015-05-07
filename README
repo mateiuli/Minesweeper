@@ -1,5 +1,5 @@
-Completati, va rog, acest fisier intr-un editor Monospaced
-(de exemplu: vim, GEdit, nano, Kate, etc.)
+Joc de Minesweeper realizat cu biblioteca ncurses.
+
 ===============================================================================
 
 Nume si prenume:		Matesica Iulian Razvan
@@ -23,7 +23,3 @@ B) Feedback organizatoric pentru propunator:
 
 Timp aproximativ de rezolvare:		50 (in ore)
 Gradul de dificultate (1 = simplu)	6 (max. 10)
-
-Sugestii, pareri, comentarii, propuneri:
-		- era mai frumos de implementat in C++ (OOP) :D eventual cu OpenGL
-
